@@ -1,0 +1,15 @@
+frmmain = 110, 110, 701, 463, , 22, 22, 613, 375, C
+Auxiliary = 0, 0, 0, 0, C
+Boxes = 44, 44, 635, 397, C
+Cam = 88, 88, 679, 441, 
+ChuanSongDai = 0, 0, 0, 0, C
+Hinge = 0, 0, 0, 0, C
+SlipBlock = 0, 0, 0, 0, C
+Staff = 110, 110, 701, 463, C
+TuiBan = 0, 0, 0, 0, C
+TuoBan = 0, 0, 0, 0, C
+UnderProp = 0, 0, 0, 0, C
+mdlAPI = 22, 22, 613, 375, 
+mdlMathAndDemo = 66, 66, 657, 419, 
+dlgPara = 88, 88, 679, 441, , 154, 154, 745, 507, C
+frmSplash = 0, 0, 0, 0, C, 88, 88, 679, 441, C

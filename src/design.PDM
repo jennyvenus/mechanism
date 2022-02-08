@@ -1,0 +1,94 @@
+[Root]
+Most Recent Package=机构学课程设计
+
+
+[Package|机构学课程设计|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\p\vb\design\Package
+
+[Package|机构学课程设计|Configure DAO ISAMs]
+Applicable=No
+
+[Package|机构学课程设计|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|机构学课程设计|Files Found]
+
+[Package|机构学课程设计|Files Released]
+
+[Package|机构学课程设计|Missing Dependency Information]
+
+[Package|机构学课程设计|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|机构学课程设计|Files Added]
+
+[Package|机构学课程设计|Files Removed]
+
+[Package|机构学课程设计|Files In Project]
+C:\Documents and Settings\Administrator\桌面\design.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|机构学课程设计|Configure Registry Files]
+Applicable=No
+
+[Package|机构学课程设计|Configure Remote Servers]
+Applicable=No
+
+[Package|机构学课程设计|Install Locations]
+C:\Documents and Settings\Administrator\桌面\design.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|机构学课程设计|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrator\桌面\design.exe=No
+
+[Package|机构学课程设计|Distribution]
+Type=single
+Size=
+Title=机构学课程设计
+
+[Package|机构学课程设计|IconGroups]
+Group0=机构学课程设计
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|机构学课程设计|机构学课程设计]
+Icon1=design.exe
+Title1=机构学课程设计
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|机构学课程设计|Package]
+PackageFolder=D:\p\vb\design\Package
+ProjectFolder=D:\p\vb\design
+ServerSideCab=
+File1=D:\p\vb\design\Package\setup.exe
+File2=D:\p\vb\design\Package\Setup.Lst
+File3=D:\p\vb\design\Package\design.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
